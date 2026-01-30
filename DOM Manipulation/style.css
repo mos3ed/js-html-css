@@ -1,0 +1,41 @@
+#body{
+    justify-content: flex-start;
+    background-color: brown;
+    color: blanchedalmond;
+}
+.theform{
+    padding: 18px;
+    background-color: blue;
+    width:350px;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+}
+.theform input[text='text']{
+    width: 80px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px saddlebrown ;
+
+}
+.btn{
+    padding: 10px 20px;
+    background-color: darkmagenta;
+    color: wheat;
+    border: none;
+    transition:color-blue;
+}
+#ul.school{
+    width: 300px;
+    margin: 20px auto;
+    padding-left: o;
+    list-style: none;
+
+}
+#ul.school.li{
+    padding: 8px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    text-align: center;
+}
